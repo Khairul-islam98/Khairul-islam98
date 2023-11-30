@@ -1,6 +1,8 @@
 ![logo](https://github.com/Khairul-islam98/Khairul-islam98/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Khairul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70C0C&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khairul+Islam;A+passionate+frontend+;Developer+from;+Bangladesh" alt="Typing SVG" /></a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
