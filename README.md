@@ -7,6 +7,15 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairul-islam98&label=Profile%20views&color=0e75b6&style=flat" alt="khairul-islam98" /> </p>
+🔭 I’m currently working on Contest Hub Website
+
+🌱 I’m currently learning MERN Stack Development
+
+💬 Ask me about JavaScript, ReactJS
+
+📫 How to reach me Janeyrahman900@gmail.com
+
+⚡ Fun fact I am Funny
 
 ## 🌐 Socials:
 <p align="left">
@@ -23,11 +32,54 @@
 ![](https://github-readme-stats.vercel.app/api?username=khairul-islam98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khairul-islam98&theme=dark&hide_border=false)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairul-islam98&show_icons=true&locale=en&layout=compact" alt="khairul-islam98" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairul-islam98&show_icons=true&locale=en&layout=compact" alt="khairul-islam98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khairul-islam98&show_icons=true&locale=en" alt="khairul-islam98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairul-islam98&" alt="khairul-islam98" /></p>
+# Project 
+
+# Entertainment and Media
+
+Live link: https://brand-shop-auth-6ef8c.web.app
+
+  1. User-Friendly login and registration system that allows websites visitors. 
+
+  2. Implement tools to track user behavior, popular content, and website performance.  
+
+  3. Encourage users to provide feedback and act upon it to continually improve the website.
+
+  4. A well-organized brand-shop with detailed for Entertainment and Media
+
+  5. A mobile-responsive website design to ensure a seamless experience on smartphones and tablets.
+
+# Restaurant Management
+
+Live link: https://restaurant-management-1c99f.web.app
+
+  1. Menu Management: Display prices, descriptions, and images for menu items, Highlight special dishes and promotions. 
+
+  2. Ordering System: Online table, Ordering and payment processing for dine-in and takeout orders.  
+
+  3. User  to provide feedback and act upon it to continually improve the website.
+
+  4. Content Management: Easily update website content, including menus, and images.
+
+  5. A mobile-responsive website design to ensure a  smartphones and tablets.
+
+# Contest Hub
+
+Live link: https://assignment-12-dfc40.web.app
+
+ 1. User Profiles: Allow users to create profiles where they can manage their information, track their submissions, and participate in different contests.
+
+ 2. Prizes and Rewards: Clearly outline prizes for winners and provide a secure method for distributing rewards, whether they're monetary, vouchers, or other perks.
+
+ 3. A mobile-responsive website design to ensure a smartphones and tablets.
+
+ 4. Allow Creator to create  their contests, providing a platform for community-generated events with moderation and approval systems in place.
+
+ 5. Contests: Enable users to form teams or collaborate on entries, fostering teamwork and encouraging a sense of community among participants.
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
