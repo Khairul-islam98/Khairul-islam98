@@ -1,18 +1,18 @@
 ![logo](https://github.com/Khairul-islam98/Khairul-islam98/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.png)
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70C0C&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khairul+Islam;A+passionate+frontend+;Developer+from;+Bangladesh" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Khairul+Islam;A+passionate+full-stack+developer+;in+Bangladesh" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairul-islam98&label=Profile%20views&color=0e75b6&style=flat" alt="khairul-islam98" /> </p>
 
-🔭 I’m currently working on Contest Hub Website
+🔭 I’m currently working on University-Backend
 
-🌱 I’m currently learning MERN Stack Development
+🌱 I’m currently learning Full Stack Development
 
-💬 Ask me about JavaScript, ReactJS
+💬 Ask me about JavaScript, TypeScript,  ReactJS
 
 📫 How to reach me Janeyrahman900@gmail.com
 
@@ -34,51 +34,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khairul-islam98&theme=dark&hide_border=false)<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairul-islam98&show_icons=true&locale=en&layout=compact" alt="khairul-islam98" /></p>
-
-
-# Project 
-
-# Entertainment and Media
-
-Live link: https://brand-shop-auth-6ef8c.web.app
-
-  1. User-Friendly login and registration system that allows websites visitors. 
-
-  2. Implement tools to track user behavior, popular content, and website performance.  
-
-  3. Encourage users to provide feedback and act upon it to continually improve the website.
-
-  4. A well-organized brand-shop with detailed for Entertainment and Media
-
-  5. A mobile-responsive website design to ensure a seamless experience on smartphones and tablets.
-
-# Restaurant Management
-
-Live link: https://restaurant-management-1c99f.web.app
-
-  1. Menu Management: Display prices, descriptions, and images for menu items, Highlight special dishes and promotions. 
-
-  2. Ordering System: Online table, Ordering and payment processing for dine-in and takeout orders.  
-
-  3. User  to provide feedback and act upon it to continually improve the website.
-
-  4. Content Management: Easily update website content, including menus, and images.
-
-  5. A mobile-responsive website design to ensure a  smartphones and tablets.
-
-# Contest Hub
-
-Live link: https://assignment-12-dfc40.web.app
-
- 1. User Profiles: Allow users to create profiles where they can manage their information, track their submissions, and participate in different contests.
-
- 2. Prizes and Rewards: Clearly outline prizes for winners and provide a secure method for distributing rewards, whether they're monetary, vouchers, or other perks.
-
- 3. A mobile-responsive website design to ensure a smartphones and tablets.
-
- 4. Allow Creator to create  their contests, providing a platform for community-generated events with moderation and approval systems in place.
-
- 5. Contests: Enable users to form teams or collaborate on entries, fostering teamwork and encouraging a sense of community among participants.
 
 
 
