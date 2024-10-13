@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairul-islam98&label=Profile%20views&color=0e75b6&style=flat" alt="khairul-islam98" /> </p>
 
-🔭 I’m currently working on Real-Time-Slack-Clone
+🔭 I’m currently working on Slack-Clone
 
 🌱 I’m currently learning Full Stack Development
 
